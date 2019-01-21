@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\bin\WcfService.dll.config
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\bin\WcfService.dll
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\bin\WcfService.pdb
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\obj\Debug\WcfService.dll
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\obj\Debug\WcfService.pdb
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\bin\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\bin\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\bin\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\WcfService\bin\EntityFramework.SqlServer.xml

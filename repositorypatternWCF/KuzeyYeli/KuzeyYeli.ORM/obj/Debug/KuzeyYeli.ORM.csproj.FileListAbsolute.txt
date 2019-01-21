@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll.config
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.pdb

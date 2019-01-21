@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\bin\Debug\Win_WebServices.pdb
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\bin\Debug\Win_WebServices.exe.config
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\bin\Debug\Win_WebServices.exe
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\obj\Debug\Win_WebServices.Form1.resources
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\obj\Debug\Win_WebServices.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\obj\Debug\Win_WebServices.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\obj\Debug\Win_WebServices.exe
+C:\Users\RAMAZAN\Desktop\Win_WebServices\Win_WebServices\obj\Debug\Win_WebServices.pdb

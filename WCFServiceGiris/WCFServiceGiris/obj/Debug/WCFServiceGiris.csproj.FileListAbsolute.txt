@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\bin\Debug\WCFServiceGiris.exe.config
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\bin\Debug\WCFServiceGiris.exe
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\bin\Debug\WCFServiceGiris.pdb
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\obj\Debug\WCFServiceGiris.Form1.resources
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\obj\Debug\WCFServiceGiris.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\obj\Debug\WCFServiceGiris.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\obj\Debug\WCFServiceGiris.exe
+C:\Users\RAMAZAN\Desktop\WCFServiceGiris\WCFServiceGiris\obj\Debug\WCFServiceGiris.pdb

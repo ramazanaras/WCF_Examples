@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="TumunuListele">
+        <s:complexType />
+      </s:element>
+      <s:element name="TumunuListeleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TumunuListeleResult" type="tns:ArrayOfMusteriResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfMusteriResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="MusteriResult" nillable="true" type="tns:MusteriResult" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="MusteriResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="MusteriID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SirketAdi" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MusteriAdi" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Telefon" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TumunuListeleSoapIn">
+    <wsdl:part name="parameters" element="tns:TumunuListele" />
+  </wsdl:message>
+  <wsdl:message name="TumunuListeleSoapOut">
+    <wsdl:part name="parameters" element="tns:TumunuListeleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MusteriServiceSoap">
+    <wsdl:operation name="TumunuListele">
+      <wsdl:input message="tns:TumunuListeleSoapIn" />
+      <wsdl:output message="tns:TumunuListeleSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MusteriServiceSoap" type="tns:MusteriServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TumunuListele">
+      <soap:operation soapAction="http://tempuri.org/TumunuListele" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MusteriServiceSoap12" type="tns:MusteriServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TumunuListele">
+      <soap12:operation soapAction="http://tempuri.org/TumunuListele" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MusteriService">
+    <wsdl:port name="MusteriServiceSoap" binding="tns:MusteriServiceSoap">
+      <soap:address location="http://localhost:2499/MusteriService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MusteriServiceSoap12" binding="tns:MusteriServiceSoap12">
+      <soap12:address location="http://localhost:2499/MusteriService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

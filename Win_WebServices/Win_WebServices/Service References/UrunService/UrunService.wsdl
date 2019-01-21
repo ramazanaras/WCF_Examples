@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TumunuListele">
+        <s:complexType />
+      </s:element>
+      <s:element name="TumunuListeleResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TumunuListeleResult" type="tns:ArrayOfUrunResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfUrunResult">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="UrunResult" nillable="true" type="tns:UrunResult" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="UrunResult">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="UrunID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="UrunAdi" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fiyat" nillable="true" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Stok" nillable="true" type="s:short" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Oturum" type="tns:Oturum" />
+      <s:complexType name="Oturum">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="KullaniciAdi" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Parola" type="s:string" />
+        </s:sequence>
+        <s:anyAttribute />
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="TumunuListeleSoapIn">
+    <wsdl:part name="parameters" element="tns:TumunuListele" />
+  </wsdl:message>
+  <wsdl:message name="TumunuListeleSoapOut">
+    <wsdl:part name="parameters" element="tns:TumunuListeleResponse" />
+  </wsdl:message>
+  <wsdl:message name="TumunuListeleOturum">
+    <wsdl:part name="Oturum" element="tns:Oturum" />
+  </wsdl:message>
+  <wsdl:portType name="UrunServiceSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TumunuListele">
+      <wsdl:input message="tns:TumunuListeleSoapIn" />
+      <wsdl:output message="tns:TumunuListeleSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="UrunServiceSoap" type="tns:UrunServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TumunuListele">
+      <soap:operation soapAction="http://tempuri.org/TumunuListele" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:TumunuListeleOturum" part="Oturum" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="UrunServiceSoap12" type="tns:UrunServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TumunuListele">
+      <soap12:operation soapAction="http://tempuri.org/TumunuListele" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:TumunuListeleOturum" part="Oturum" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UrunService">
+    <wsdl:port name="UrunServiceSoap" binding="tns:UrunServiceSoap">
+      <soap:address location="http://localhost:2499/UrunService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="UrunServiceSoap12" binding="tns:UrunServiceSoap12">
+      <soap12:address location="http://localhost:2499/UrunService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

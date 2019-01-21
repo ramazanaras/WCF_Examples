@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\Win_WebServices\NorthwindService\bin\NorthwindService.dll.config
+C:\Users\RAMAZAN\Desktop\Win_WebServices\NorthwindService\bin\NorthwindService.dll
+C:\Users\RAMAZAN\Desktop\Win_WebServices\NorthwindService\bin\NorthwindService.pdb
+C:\Users\RAMAZAN\Desktop\Win_WebServices\NorthwindService\obj\Debug\NorthwindService.dll
+C:\Users\RAMAZAN\Desktop\Win_WebServices\NorthwindService\obj\Debug\NorthwindService.pdb

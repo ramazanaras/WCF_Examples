@@ -1,0 +1,44 @@
+ORM katmanýndan veri çekmekle yükümlü katman Repository katmanýdýr.
+Service katmaný  gelen entityleri DTO'ya dönüþtürür.Arayüze DTO sunar.
+
+ORM Repositorye entity gönderirir.Repository Service 'e entity gönderir.Service Arayüze DTO gönderir.
+
+Service katmanýný WCF servis olarak yapýyoruz.herkese açýk þekilde yapmak için.
+
+
+ORM katmanýna manage nugettan entity framework ekliyoruz.
+
+connection stringin(app.configdeki) doðrudan class kütüphanesinde bulunmamasý gerekiyor.ORM Repository dahil olucak Repositoryde Service dahil olacak.Doðrudan çalýþan mekanizma Service katmanýdýr.Bu yüzden connection stringi ORM'den kesip WCF service katmanýndaki web config'e ekledik.
+Repository katmnýna ORM projesini referans olarak ekledik.
+Repository katmanýna manage nugettan entity framework yükledik.
+
+WCfService projesine DTO'yu,ORM,Repository katmanlarýný references olarak ekliyoruz
+
+DTO projesinin referencelarýna System.ServiceModel ve System.Runtime.Serilization dll'lerini ekliyoruz. [DataContract] [DataMember]  attributelerinin çýkmasý için.
+
+
+ //UrunDTO sýnýfýný yapmamýzýn amacý Urunler sýnýfýný Serilize edilebilir þekle getirmek.
+
+Arayüze hiçbir þekilde entity gönderilmez .DTO gönderilir.
+
+UI katmanýna add service reference diyerek aþaðýdaki kodu ekleyin(wcf servisi)
+http://localhost:5556/UrunService.svc?wsdl
+servisi ekleyince Syste.ServiceModel ve System.Runtime.Serialization dll'lerini ekler.
+
+
+Arayüz dediki Servise bana listele metodunu getir.Service Repositorye dediki bana listeleyi getir.Repository dediki ORM'e bana listeleme iþlemi yap.ORM veriyi veritabanýndan çekti.
+
+daha sonra ORM veriyi Repositorye verdi.Repository Servise verdi.Servis onu DTO'ya dönüþtürdü. ve arayüze sundu.
+
+/////////////////7
+
+Hata!
+No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'
+
+Çözümü:
+Repository katmanýndaki
+    <!--<providers>
+      <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer" />
+    </providers>-->
+kýsmýný yorum satýrý yap vede Repository katmanýný clean solution yap ve build yap. hata düzelir.
+
