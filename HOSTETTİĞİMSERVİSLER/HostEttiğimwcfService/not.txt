@@ -1,0 +1,6 @@
+Config dosyasýna sadece connectionstring ekledim ek bir ayar yapmama gerek kalmadý
+
+  <connectionStrings>
+    <add name="KuzeyYeliContext" connectionString="workstation id=wcfkatmanli.mssql.somee.com;packet size=4096;user id=tracer1_SQLLogin_1;pwd=xebokfzjg6;data source=wcfkatmanli.mssql.somee.com;persist security info=False;initial catalog=wcfkatmanli"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>

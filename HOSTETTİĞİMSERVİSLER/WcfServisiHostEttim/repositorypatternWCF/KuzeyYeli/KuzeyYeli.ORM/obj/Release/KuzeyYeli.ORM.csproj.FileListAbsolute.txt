@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\bin\Release\KuzeyYeli.ORM.dll.config
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\bin\Release\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\bin\Release\KuzeyYeli.ORM.pdb
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\bin\Release\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\bin\Release\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\obj\Release\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.ORM\obj\Release\KuzeyYeli.ORM.pdb

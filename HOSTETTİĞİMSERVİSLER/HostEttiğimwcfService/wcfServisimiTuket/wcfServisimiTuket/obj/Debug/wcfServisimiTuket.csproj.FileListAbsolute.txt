@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\bin\Debug\wcfServisimiTuket.exe.config
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\bin\Debug\wcfServisimiTuket.exe
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\bin\Debug\wcfServisimiTuket.pdb
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\obj\Debug\wcfServisimiTuket.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\obj\Debug\wcfServisimiTuket.Form1.resources
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\obj\Debug\wcfServisimiTuket.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\obj\Debug\wcfServisimiTuket.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\obj\Debug\wcfServisimiTuket.exe
+C:\Users\RAMAZAN\Desktop\wcfServisimiTuket\wcfServisimiTuket\obj\Debug\wcfServisimiTuket.pdb

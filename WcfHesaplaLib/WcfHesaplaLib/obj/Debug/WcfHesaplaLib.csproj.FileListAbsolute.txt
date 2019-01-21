@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\WcfHesaplaLib\WcfHesaplaLib\bin\Debug\WcfHesaplaLib.dll.config
+C:\Users\RAMAZAN\Desktop\WcfHesaplaLib\WcfHesaplaLib\bin\Debug\WcfHesaplaLib.dll
+C:\Users\RAMAZAN\Desktop\WcfHesaplaLib\WcfHesaplaLib\bin\Debug\WcfHesaplaLib.pdb
+C:\Users\RAMAZAN\Desktop\WcfHesaplaLib\WcfHesaplaLib\obj\Debug\WcfHesaplaLib.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\WcfHesaplaLib\WcfHesaplaLib\obj\Debug\WcfHesaplaLib.dll
+C:\Users\RAMAZAN\Desktop\WcfHesaplaLib\WcfHesaplaLib\obj\Debug\WcfHesaplaLib.pdb

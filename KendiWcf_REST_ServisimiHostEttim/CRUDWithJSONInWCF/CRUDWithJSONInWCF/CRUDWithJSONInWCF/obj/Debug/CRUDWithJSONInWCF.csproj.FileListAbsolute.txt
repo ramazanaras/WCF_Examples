@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\bin\CRUDWithJSONInWCF.dll.config
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\bin\CRUDWithJSONInWCF.dll
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\bin\CRUDWithJSONInWCF.pdb
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\bin\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\bin\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\obj\Debug\CRUDWithJSONInWCF.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\obj\Debug\CRUDWithJSONInWCF.dll
+C:\Users\RAMAZAN\Desktop\CRUDWithJSONInWCF\CRUDWithJSONInWCF\obj\Debug\CRUDWithJSONInWCF.pdb

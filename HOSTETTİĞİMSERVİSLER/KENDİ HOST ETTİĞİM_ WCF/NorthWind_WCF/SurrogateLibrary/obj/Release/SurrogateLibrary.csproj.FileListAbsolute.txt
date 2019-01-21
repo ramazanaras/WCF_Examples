@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\SurrogateLibrary\bin\Release\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\SurrogateLibrary\bin\Release\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\SurrogateLibrary\obj\Release\SurrogateLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\SurrogateLibrary\obj\Release\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\SurrogateLibrary\obj\Release\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\SurrogateLibrary\bin\Release\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\SurrogateLibrary\bin\Release\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\SurrogateLibrary\obj\Release\SurrogateLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\SurrogateLibrary\obj\Release\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\SurrogateLibrary\obj\Release\SurrogateLibrary.pdb

@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+
+@model    KuzeyRuzgariWeb.ServiceReference1.Urun[]
+
+
+
+@foreach (var item in Model)
+{
+    @item.UrunAdi
+}

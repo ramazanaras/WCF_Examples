@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf_Giris", "Wcf_Giris\Wcf_Giris.csproj", "{8FED8FE0-D928-47D0-9FCB-946772C8AA2E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{80644BC4-5AB4-41F5-8B34-6A5B313F3358} = {80644BC4-5AB4-41F5-8B34-6A5B313F3358}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "WcfService\WcfService.csproj", "{80644BC4-5AB4-41F5-8B34-6A5B313F3358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FED8FE0-D928-47D0-9FCB-946772C8AA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FED8FE0-D928-47D0-9FCB-946772C8AA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FED8FE0-D928-47D0-9FCB-946772C8AA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FED8FE0-D928-47D0-9FCB-946772C8AA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80644BC4-5AB4-41F5-8B34-6A5B313F3358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80644BC4-5AB4-41F5-8B34-6A5B313F3358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80644BC4-5AB4-41F5-8B34-6A5B313F3358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80644BC4-5AB4-41F5-8B34-6A5B313F3358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9e748840-4290-4770-ae06-e9d09754ab57" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://mywcfservis.somee.com/KurServis.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="KurServis.xsd" MetadataType="Schema" ID="f2cd3122-477d-4a83-992f-db6d91f3c320" SourceId="1" SourceUrl="http://mywcfservis.somee.com/KurServis.svc?xsd=xsd2" />
+    <MetadataFile FileName="KurServis.wsdl" MetadataType="Wsdl" ID="75c262b4-4cbc-43f6-96a0-da75b2810d6c" SourceId="1" SourceUrl="http://mywcfservis.somee.com/KurServis.svc?wsdl" />
+    <MetadataFile FileName="KurServis.disco" MetadataType="Disco" ID="68b6b719-3e6b-43c9-b095-28c6da9e8a66" SourceId="1" SourceUrl="http://mywcfservis.somee.com/KurServis.svc?disco" />
+    <MetadataFile FileName="KurServis1.xsd" MetadataType="Schema" ID="6399a414-2ec4-4655-a08c-0d7edd2ba2a4" SourceId="1" SourceUrl="http://mywcfservis.somee.com/KurServis.svc?xsd=xsd1" />
+    <MetadataFile FileName="KurServis2.xsd" MetadataType="Schema" ID="0d552d88-6eaf-41d6-874e-31515ecfb07f" SourceId="1" SourceUrl="http://mywcfservis.somee.com/KurServis.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

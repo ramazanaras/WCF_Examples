@@ -1,0 +1,14 @@
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\NorthwindServiceApp.dll.config
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\NorthwindServiceApp.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\NorthwindServiceApp.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\NorthwindServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\NorthwindServiceLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\NorthWindLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\bin\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\obj\Debug\NorthwindServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\obj\Debug\NorthwindServiceApp.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceApp\obj\Debug\NorthwindServiceApp.pdb

@@ -1,0 +1,17 @@
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\bin\Debug\WcfServisimi_Tuket.exe.config
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\bin\Debug\WcfServisimi_Tuket.exe
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\bin\Debug\WcfServisimi_Tuket.pdb
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.Form1.resources
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.exe
+C:\Users\RAMAZAN\Desktop\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\bin\Debug\WcfServisimi_Tuket.exe.config
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.exe
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\bin\Debug\WcfServisimi_Tuket.exe
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\bin\Debug\WcfServisimi_Tuket.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.Form1.resources
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\WcfServisimi_Tuket\WcfServisimi_Tuket\obj\Debug\WcfServisimi_Tuket.csproj.GenerateResource.Cache

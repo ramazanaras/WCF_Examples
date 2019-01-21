@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdventureWorks2012ModelStoreContainer" CdmEntityContainer="AdventureWorks2012Entities">
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="AdventureWorks2012Model.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ProductNumber" ColumnName="ProductNumber" />
+          <ScalarProperty Name="MakeFlag" ColumnName="MakeFlag" />
+          <ScalarProperty Name="FinishedGoodsFlag" ColumnName="FinishedGoodsFlag" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+          <ScalarProperty Name="SafetyStockLevel" ColumnName="SafetyStockLevel" />
+          <ScalarProperty Name="ReorderPoint" ColumnName="ReorderPoint" />
+          <ScalarProperty Name="StandardCost" ColumnName="StandardCost" />
+          <ScalarProperty Name="ListPrice" ColumnName="ListPrice" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="SizeUnitMeasureCode" ColumnName="SizeUnitMeasureCode" />
+          <ScalarProperty Name="WeightUnitMeasureCode" ColumnName="WeightUnitMeasureCode" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="DaysToManufacture" ColumnName="DaysToManufacture" />
+          <ScalarProperty Name="ProductLine" ColumnName="ProductLine" />
+          <ScalarProperty Name="Class" ColumnName="Class" />
+          <ScalarProperty Name="Style" ColumnName="Style" />
+          <ScalarProperty Name="ProductSubcategoryID" ColumnName="ProductSubcategoryID" />
+          <ScalarProperty Name="ProductModelID" ColumnName="ProductModelID" />
+          <ScalarProperty Name="SellStartDate" ColumnName="SellStartDate" />
+          <ScalarProperty Name="SellEndDate" ColumnName="SellEndDate" />
+          <ScalarProperty Name="DiscontinuedDate" ColumnName="DiscontinuedDate" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductCategories">
+      <EntityTypeMapping TypeName="AdventureWorks2012Model.ProductCategory">
+        <MappingFragment StoreEntitySet="ProductCategory">
+          <ScalarProperty Name="ProductCategoryID" ColumnName="ProductCategoryID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductSubcategories">
+      <EntityTypeMapping TypeName="AdventureWorks2012Model.ProductSubcategory">
+        <MappingFragment StoreEntitySet="ProductSubcategory">
+          <ScalarProperty Name="ProductSubcategoryID" ColumnName="ProductSubcategoryID" />
+          <ScalarProperty Name="ProductCategoryID" ColumnName="ProductCategoryID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vSalesPersons">
+      <EntityTypeMapping TypeName="AdventureWorks2012Model.vSalesPerson">
+        <MappingFragment StoreEntitySet="vSalesPerson">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Suffix" ColumnName="Suffix" />
+          <ScalarProperty Name="JobTitle" ColumnName="JobTitle" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="PhoneNumberType" ColumnName="PhoneNumberType" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="EmailPromotion" ColumnName="EmailPromotion" />
+          <ScalarProperty Name="AddressLine1" ColumnName="AddressLine1" />
+          <ScalarProperty Name="AddressLine2" ColumnName="AddressLine2" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="StateProvinceName" ColumnName="StateProvinceName" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="CountryRegionName" ColumnName="CountryRegionName" />
+          <ScalarProperty Name="TerritoryName" ColumnName="TerritoryName" />
+          <ScalarProperty Name="TerritoryGroup" ColumnName="TerritoryGroup" />
+          <ScalarProperty Name="SalesQuota" ColumnName="SalesQuota" />
+          <ScalarProperty Name="SalesYTD" ColumnName="SalesYTD" />
+          <ScalarProperty Name="SalesLastYear" ColumnName="SalesLastYear" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="uspGetEmployeeManagers" FunctionName="AdventureWorks2012Model.Store.uspGetEmployeeManagers">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AdventureWorks2012Model.uspGetEmployeeManagers_Result">
+          <ScalarProperty Name="RecursionLevel" ColumnName="RecursionLevel" />
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="OrganizationNode" ColumnName="OrganizationNode" />
+          <ScalarProperty Name="ManagerFirstName" ColumnName="ManagerFirstName" />
+          <ScalarProperty Name="ManagerLastName" ColumnName="ManagerLastName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetEmployeeManagers" FunctionName="AdventureWorks2012Model.Store.uspGetEmployeeManagers">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AdventureWorks2012Model.uspGetEmployeeManagers_Result">
+          <ScalarProperty Name="RecursionLevel" ColumnName="RecursionLevel" />
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="OrganizationNode" ColumnName="OrganizationNode" />
+          <ScalarProperty Name="ManagerFirstName" ColumnName="ManagerFirstName" />
+          <ScalarProperty Name="ManagerLastName" ColumnName="ManagerLastName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

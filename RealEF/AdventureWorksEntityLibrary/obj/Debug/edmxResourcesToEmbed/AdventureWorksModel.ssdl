@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdventureWorks2012Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProductNumber" Type="nvarchar" MaxLength="25" Nullable="false" />
+    <Property Name="MakeFlag" Type="bit" Nullable="false" />
+    <Property Name="FinishedGoodsFlag" Type="bit" Nullable="false" />
+    <Property Name="Color" Type="nvarchar" MaxLength="15" />
+    <Property Name="SafetyStockLevel" Type="smallint" Nullable="false" />
+    <Property Name="ReorderPoint" Type="smallint" Nullable="false" />
+    <Property Name="StandardCost" Type="money" Nullable="false" />
+    <Property Name="ListPrice" Type="money" Nullable="false" />
+    <Property Name="Size" Type="nvarchar" MaxLength="5" />
+    <Property Name="SizeUnitMeasureCode" Type="nchar" MaxLength="3" />
+    <Property Name="WeightUnitMeasureCode" Type="nchar" MaxLength="3" />
+    <Property Name="Weight" Type="decimal" Precision="8" Scale="2" />
+    <Property Name="DaysToManufacture" Type="int" Nullable="false" />
+    <Property Name="ProductLine" Type="nchar" MaxLength="2" />
+    <Property Name="Class" Type="nchar" MaxLength="2" />
+    <Property Name="Style" Type="nchar" MaxLength="2" />
+    <Property Name="ProductSubcategoryID" Type="int" />
+    <Property Name="ProductModelID" Type="int" />
+    <Property Name="SellStartDate" Type="datetime" Nullable="false" />
+    <Property Name="SellEndDate" Type="datetime" />
+    <Property Name="DiscontinuedDate" Type="datetime" />
+    <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductCategory">
+    <Key>
+      <PropertyRef Name="ProductCategoryID" />
+    </Key>
+    <Property Name="ProductCategoryID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductSubcategory">
+    <Key>
+      <PropertyRef Name="ProductSubcategoryID" />
+    </Key>
+    <Property Name="ProductSubcategoryID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductCategoryID" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="rowguid" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AdventureWorks2012.Sales.vSalesPerson' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vSalesPerson">
+    <Key>
+      <PropertyRef Name="BusinessEntityID" />
+      <PropertyRef Name="FirstName" />
+      <PropertyRef Name="LastName" />
+      <PropertyRef Name="JobTitle" />
+      <PropertyRef Name="EmailPromotion" />
+      <PropertyRef Name="AddressLine1" />
+      <PropertyRef Name="City" />
+      <PropertyRef Name="StateProvinceName" />
+      <PropertyRef Name="PostalCode" />
+      <PropertyRef Name="CountryRegionName" />
+      <PropertyRef Name="SalesYTD" />
+      <PropertyRef Name="SalesLastYear" />
+    </Key>
+    <Property Name="BusinessEntityID" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="8" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Suffix" Type="nvarchar" MaxLength="10" />
+    <Property Name="JobTitle" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="25" />
+    <Property Name="PhoneNumberType" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailPromotion" Type="int" Nullable="false" />
+    <Property Name="AddressLine1" Type="nvarchar" MaxLength="60" Nullable="false" />
+    <Property Name="AddressLine2" Type="nvarchar" MaxLength="60" />
+    <Property Name="City" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="StateProvinceName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="CountryRegionName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TerritoryName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TerritoryGroup" Type="nvarchar" MaxLength="50" />
+    <Property Name="SalesQuota" Type="money" />
+    <Property Name="SalesYTD" Type="money" Nullable="false" />
+    <Property Name="SalesLastYear" Type="money" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Product_ProductSubcategory_ProductSubcategoryID">
+    <End Role="ProductSubcategory" Type="Self.ProductSubcategory" Multiplicity="0..1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductSubcategory">
+        <PropertyRef Name="ProductSubcategoryID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="ProductSubcategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductSubcategory_ProductCategory_ProductCategoryID">
+    <End Role="ProductCategory" Type="Self.ProductCategory" Multiplicity="1" />
+    <End Role="ProductSubcategory" Type="Self.ProductSubcategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategory">
+        <PropertyRef Name="ProductCategoryID" />
+      </Principal>
+      <Dependent Role="ProductSubcategory">
+        <PropertyRef Name="ProductCategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="uspGetEmployeeManagers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="BusinessEntityID" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="AdventureWorks2012ModelStoreContainer">
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="Production" store:Type="Tables" />
+    <EntitySet Name="ProductCategory" EntityType="Self.ProductCategory" Schema="Production" store:Type="Tables" />
+    <EntitySet Name="ProductSubcategory" EntityType="Self.ProductSubcategory" Schema="Production" store:Type="Tables" />
+    <EntitySet Name="vSalesPerson" EntityType="Self.vSalesPerson" store:Type="Views" store:Schema="Sales">
+      <DefiningQuery>SELECT 
+    [vSalesPerson].[BusinessEntityID] AS [BusinessEntityID], 
+    [vSalesPerson].[Title] AS [Title], 
+    [vSalesPerson].[FirstName] AS [FirstName], 
+    [vSalesPerson].[MiddleName] AS [MiddleName], 
+    [vSalesPerson].[LastName] AS [LastName], 
+    [vSalesPerson].[Suffix] AS [Suffix], 
+    [vSalesPerson].[JobTitle] AS [JobTitle], 
+    [vSalesPerson].[PhoneNumber] AS [PhoneNumber], 
+    [vSalesPerson].[PhoneNumberType] AS [PhoneNumberType], 
+    [vSalesPerson].[EmailAddress] AS [EmailAddress], 
+    [vSalesPerson].[EmailPromotion] AS [EmailPromotion], 
+    [vSalesPerson].[AddressLine1] AS [AddressLine1], 
+    [vSalesPerson].[AddressLine2] AS [AddressLine2], 
+    [vSalesPerson].[City] AS [City], 
+    [vSalesPerson].[StateProvinceName] AS [StateProvinceName], 
+    [vSalesPerson].[PostalCode] AS [PostalCode], 
+    [vSalesPerson].[CountryRegionName] AS [CountryRegionName], 
+    [vSalesPerson].[TerritoryName] AS [TerritoryName], 
+    [vSalesPerson].[TerritoryGroup] AS [TerritoryGroup], 
+    [vSalesPerson].[SalesQuota] AS [SalesQuota], 
+    [vSalesPerson].[SalesYTD] AS [SalesYTD], 
+    [vSalesPerson].[SalesLastYear] AS [SalesLastYear]
+    FROM [Sales].[vSalesPerson] AS [vSalesPerson]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Product_ProductSubcategory_ProductSubcategoryID" Association="Self.FK_Product_ProductSubcategory_ProductSubcategoryID">
+      <End Role="ProductSubcategory" EntitySet="ProductSubcategory" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductSubcategory_ProductCategory_ProductCategoryID" Association="Self.FK_ProductSubcategory_ProductCategory_ProductCategoryID">
+      <End Role="ProductCategory" EntitySet="ProductCategory" />
+      <End Role="ProductSubcategory" EntitySet="ProductSubcategory" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

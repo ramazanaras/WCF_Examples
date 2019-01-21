@@ -1,0 +1,20 @@
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\bin\Release\NorthWindLibrary.dll.config
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\bin\Release\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\bin\Release\NorthWindLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\obj\Release\NorthWindLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\obj\Release\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthWindLibrary\obj\Release\NorthWindLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\bin\Release\NorthWindLibrary.dll.config
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\bin\Release\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\bin\Release\NorthWindLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\obj\Release\NorthWindLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\obj\Release\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthWindLibrary\obj\Release\NorthWindLibrary.pdb

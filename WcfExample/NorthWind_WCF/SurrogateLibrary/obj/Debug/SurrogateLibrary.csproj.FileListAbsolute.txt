@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\NorthWind\SurrogateLibrary\bin\Debug\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\SurrogateLibrary\bin\Debug\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\SurrogateLibrary\obj\Debug\SurrogateLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\NorthWind\SurrogateLibrary\obj\Debug\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\SurrogateLibrary\obj\Debug\SurrogateLibrary.pdb

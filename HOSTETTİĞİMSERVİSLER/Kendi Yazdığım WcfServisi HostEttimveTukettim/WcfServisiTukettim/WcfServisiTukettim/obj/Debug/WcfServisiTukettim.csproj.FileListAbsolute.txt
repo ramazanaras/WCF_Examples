@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\bin\Debug\WcfServisiTukettim.exe.config
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\bin\Debug\WcfServisiTukettim.exe
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\bin\Debug\WcfServisiTukettim.pdb
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\obj\Debug\WcfServisiTukettim.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\obj\Debug\WcfServisiTukettim.Form1.resources
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\obj\Debug\WcfServisiTukettim.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\obj\Debug\WcfServisiTukettim.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\obj\Debug\WcfServisiTukettim.exe
+C:\Users\RAMAZAN\Desktop\WcfServisiTukettim\WcfServisiTukettim\obj\Debug\WcfServisiTukettim.pdb

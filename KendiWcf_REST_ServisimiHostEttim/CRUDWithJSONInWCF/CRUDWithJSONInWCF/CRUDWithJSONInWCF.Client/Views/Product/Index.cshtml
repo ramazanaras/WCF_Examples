@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  
+</head>
+<body>
+    
+    <a href="@Url.Action("Create","Product")">Add New Product</a>
+    <table cellpadding="2" cellspacing="2" border="1">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Option</th>
+        </tr>
+        @foreach (var product in ViewBag.listProducts)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Quantity</td>
+                <td>
+                    <a href="@Url.Action("Delete", "Product", new {id=product.Id })">Delete</a>
+                    <a href="@Url.Action("Edit", "Product", new {id=product.Id })">Edit</a>
+                </td>
+               
+            </tr>
+        }
+    </table>
+
+</body>
+</html>
+
+
+
+
+

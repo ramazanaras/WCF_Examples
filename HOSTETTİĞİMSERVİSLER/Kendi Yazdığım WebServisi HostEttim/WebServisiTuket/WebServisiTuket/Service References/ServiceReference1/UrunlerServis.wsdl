@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UrunlerListesi">
+        <s:complexType />
+      </s:element>
+      <s:element name="UrunlerListesiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UrunlerListesiResult" type="tns:ArrayOfUrunDTO" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfUrunDTO">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="UrunDTO" nillable="true" type="tns:UrunDTO" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="UrunDTO">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="UrunID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="UrunAdi" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TedarikciID" nillable="true" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="KategoriID" nillable="true" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="BirimdekiMiktar" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fiyat" nillable="true" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Stok" nillable="true" type="s:short" />
+          <s:element minOccurs="1" maxOccurs="1" name="YeniSatis" nillable="true" type="s:short" />
+          <s:element minOccurs="1" maxOccurs="1" name="EnAzYenidenSatisMikatari" nillable="true" type="s:short" />
+          <s:element minOccurs="1" maxOccurs="1" name="Sonlandi" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="UrunResimUrl" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Kimlik" type="tns:Kimlik" />
+      <s:complexType name="Kimlik">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="KullaniciAdi" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Parola" type="s:string" />
+        </s:sequence>
+        <s:anyAttribute />
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="UrunlerListesiSoapIn">
+    <wsdl:part name="parameters" element="tns:UrunlerListesi" />
+  </wsdl:message>
+  <wsdl:message name="UrunlerListesiSoapOut">
+    <wsdl:part name="parameters" element="tns:UrunlerListesiResponse" />
+  </wsdl:message>
+  <wsdl:message name="UrunlerListesiKimlik">
+    <wsdl:part name="Kimlik" element="tns:Kimlik" />
+  </wsdl:message>
+  <wsdl:portType name="UrunlerServisSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UrunlerListesi">
+      <wsdl:input message="tns:UrunlerListesiSoapIn" />
+      <wsdl:output message="tns:UrunlerListesiSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="UrunlerServisSoap" type="tns:UrunlerServisSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UrunlerListesi">
+      <soap:operation soapAction="http://tempuri.org/UrunlerListesi" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:UrunlerListesiKimlik" part="Kimlik" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="UrunlerServisSoap12" type="tns:UrunlerServisSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UrunlerListesi">
+      <soap12:operation soapAction="http://tempuri.org/UrunlerListesi" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:UrunlerListesiKimlik" part="Kimlik" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UrunlerServis">
+    <wsdl:port name="UrunlerServisSoap" binding="tns:UrunlerServisSoap">
+      <soap:address location="http://benimwebservisim.somee.com/UrunlerServis.asmx" />
+    </wsdl:port>
+    <wsdl:port name="UrunlerServisSoap12" binding="tns:UrunlerServisSoap12">
+      <soap12:address location="http://benimwebservisim.somee.com/UrunlerServis.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

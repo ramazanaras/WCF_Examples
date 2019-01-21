@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\bin\Debug\KuzeyRuzgari.dll.config
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\bin\Debug\KuzeyRuzgari.dll
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\bin\Debug\KuzeyRuzgari.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\obj\Debug\KuzeyRuzgari.dll
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\obj\Debug\KuzeyRuzgari.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyRuzgari\KuzeyRuzgari\obj\Debug\KuzeyRuzgari.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+NorthSErviceApp servisin host edildði projedir.NorthindServicelibrary porjesini servis edecek projedir.
+
+WCF servisini host edebilmek için NorthSErviceApp  projesini set as startup project olarak seçiyoruz.
+
+
+Hata ve Çözümü
+An exception of type 'System.InvalidOperationException' occurred in EntityFramework.dll but was not handled in user code
+
+Additional information: No connection string named 'NorthwindEntities' could be found in the application config file.
+
+NorthwindServiceApp projesine aþaðýdaki webconfigi ekliyoruz.
+  <connectionStrings>
+    <add name="NorthwindEntities" connectionString="metadata=res://*/NorthwindModel.csdl|res://*/NorthwindModel.ssdl|res://*/NorthwindModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=Northwind;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+  </connectionStrings>

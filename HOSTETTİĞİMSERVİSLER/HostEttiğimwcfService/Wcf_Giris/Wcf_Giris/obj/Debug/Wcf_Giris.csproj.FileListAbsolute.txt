@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\bin\Debug\Wcf_Giris.exe.config
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\bin\Debug\Wcf_Giris.exe
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\bin\Debug\Wcf_Giris.pdb
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\obj\Debug\Wcf_Giris.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\obj\Debug\Wcf_Giris.Form1.resources
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\obj\Debug\Wcf_Giris.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\obj\Debug\Wcf_Giris.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\obj\Debug\Wcf_Giris.exe
+C:\Users\RAMAZAN\Desktop\Wcf_Giris\Wcf_Giris\obj\Debug\Wcf_Giris.pdb

@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\bin\Debug\AdventureWorksEntityLibrary.dll.config
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\bin\Debug\AdventureWorksEntityLibrary.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\bin\Debug\AdventureWorksEntityLibrary.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\obj\Debug\AdventureWorksEntityLibrary.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksEntityLibrary\obj\Debug\AdventureWorksEntityLibrary.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\RAMAZAN\Desktop\ServisPublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/15/2017 13:43:23</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>09/15/2017 13:43:23</publishTime>
+    </File>
+    <File Include="bin/WebService.dll">
+      <publishTime>01/27/2018 22:39:11</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/15/2017 13:43:27</publishTime>
+    </File>
+    <File Include="UrunlerServis.asmx">
+      <publishTime>09/15/2017 13:23:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/27/2018 22:39:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

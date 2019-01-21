@@ -1,0 +1,4 @@
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksSurrogateLibrary\bin\Debug\AdventureWorksSurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksSurrogateLibrary\bin\Debug\AdventureWorksSurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksSurrogateLibrary\obj\Debug\AdventureWorksSurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksSurrogateLibrary\obj\Debug\AdventureWorksSurrogateLibrary.pdb

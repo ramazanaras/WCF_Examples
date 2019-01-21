@@ -1,0 +1,15 @@
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\RAMAZAN\Desktop\RealEF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\wdosya\C# TÜM NOTLAR\WCF ORNEKLER\RealEF\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\wdosya\C# TÜM NOTLAR\WCF ORNEKLER\RealEF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\wdosya\C# TÜM NOTLAR\WCF ORNEKLER\RealEF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

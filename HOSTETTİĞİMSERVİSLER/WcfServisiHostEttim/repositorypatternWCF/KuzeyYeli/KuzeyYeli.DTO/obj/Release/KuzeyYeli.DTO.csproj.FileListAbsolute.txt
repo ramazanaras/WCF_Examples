@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.DTO\bin\Release\KuzeyYeli.DTO.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.DTO\bin\Release\KuzeyYeli.DTO.pdb
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.DTO\obj\Release\KuzeyYeli.DTO.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.DTO\obj\Release\KuzeyYeli.DTO.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.DTO\obj\Release\KuzeyYeli.DTO.pdb

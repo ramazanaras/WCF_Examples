@@ -1,0 +1,14 @@
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\NorthwindServiceLibrary.dll.config
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\NorthwindServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\NorthwindServiceLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\NorthWindLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\obj\Debug\NorthwindServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\obj\Debug\NorthwindServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindServiceLibrary\obj\Debug\NorthwindServiceLibrary.pdb

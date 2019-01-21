@@ -1,0 +1,21 @@
+Hata!
+No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SqlClient'
+
+Çözümü:
+AdventureWorksBusinessLibrary katmanýndaki appconfigdeki 
+    <!--<providers>
+      <provider invariantName="System.Data.SqlClient" type="System.Data.Entity.SqlServer.SqlProviderServices, EntityFramework.SqlServer" />
+    </providers>-->
+kýsmýný yorum satýrý yap vede AdventureWorksBusinessLibrary  katmanýný clean solution yap ve build yap. hata düzelir.
+
+
+
+
+Hata!
+Additional information: No connection string named 'NorthwindEntities' could be found in the application config file. 
+Çözümü:
+Service katmanýndaki webconfige connection string yapýþtýr
+<connectionStrings>
+    <add name="NorthwindEntities " connectionString="Data Source=.;Initial Catalog=Northwind;Integrated Security=True;MultipleActiveResultSets=True"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>

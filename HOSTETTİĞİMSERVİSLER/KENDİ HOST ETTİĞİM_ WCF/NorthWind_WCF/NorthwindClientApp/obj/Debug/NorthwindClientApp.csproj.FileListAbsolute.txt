@@ -1,0 +1,15 @@
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindClientApp\bin\Debug\NorthwindClientApp.exe.config
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindClientApp\bin\Debug\NorthwindClientApp.exe
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindClientApp\bin\Debug\NorthwindClientApp.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindClientApp\obj\Debug\NorthwindClientApp.exe
+C:\Users\RAMAZAN\Desktop\NorthWind\NorthwindClientApp\obj\Debug\NorthwindClientApp.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindClientApp\bin\Debug\NorthwindClientApp.exe.config
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindClientApp\obj\Debug\NorthwindClientApp.exe
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindClientApp\obj\Debug\NorthwindClientApp.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindClientApp\bin\Debug\NorthwindClientApp.exe
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindClientApp\bin\Debug\NorthwindClientApp.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindClientApp\bin\Debug\NorthwindClientApp.exe.config
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindClientApp\obj\Debug\NorthwindClientApp.exe
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindClientApp\obj\Debug\NorthwindClientApp.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindClientApp\bin\Debug\NorthwindClientApp.exe
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindClientApp\bin\Debug\NorthwindClientApp.pdb

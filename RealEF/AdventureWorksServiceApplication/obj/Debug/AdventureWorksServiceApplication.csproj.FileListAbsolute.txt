@@ -1,0 +1,14 @@
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksServiceApplication.dll.config
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksServiceApplication.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksServiceApplication.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksBusinessLibrary.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksSurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksEntityLibrary.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksBusinessLibrary.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksSurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\AdventureWorksEntityLibrary.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\bin\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\obj\Debug\AdventureWorksServiceApplication.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\obj\Debug\AdventureWorksServiceApplication.dll
+C:\Users\RAMAZAN\Desktop\RealEF\AdventureWorksServiceApplication\obj\Debug\AdventureWorksServiceApplication.pdb

@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\bin\WebService.dll.config
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\bin\WebService.dll
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\bin\WebService.pdb
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\obj\Debug\WebService.dll
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\obj\Debug\WebService.pdb
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\bin\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\bin\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\Service_Giris\WebService\bin\EntityFramework.SqlServer.xml

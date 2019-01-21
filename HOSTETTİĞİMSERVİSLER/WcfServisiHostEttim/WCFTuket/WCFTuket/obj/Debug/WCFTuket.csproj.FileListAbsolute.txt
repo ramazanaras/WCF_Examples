@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\bin\Debug\WCFTuket.exe.config
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\bin\Debug\WCFTuket.exe
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\bin\Debug\WCFTuket.pdb
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\obj\Debug\WCFTuket.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\obj\Debug\WCFTuket.Form1.resources
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\obj\Debug\WCFTuket.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\obj\Debug\WCFTuket.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\obj\Debug\WCFTuket.exe
+C:\Users\RAMAZAN\Desktop\WCFTuket\WCFTuket\obj\Debug\WCFTuket.pdb

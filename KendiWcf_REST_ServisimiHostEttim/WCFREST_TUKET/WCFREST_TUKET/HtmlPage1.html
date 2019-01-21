@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+</head>
+<body>
+
+
+
+
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script>
+        
+    $(document).ready(function () {
+        var url = 'http://restwcf.somee.com/ServiceProduct.svc/findall';  // url değişkenine json dosyamızın bulunduğu yeri yazıyoruz.
+        $.getJSON(url, function (data)  // url  deki json getJSON komutuyla data değişkenine atıyoruzve bir fonsiyonda kullanıyoruz
+
+        {
+            for (var i = 0; i < data.length; i++) {  // gelen datamızın kaç elemanlı olduğunu bilmediğimiz için length komutu bize sayısını veriyor ve o kadar  döndürüyoruz
+                
+                    document.write(data[i].Id + " "+ data[i].Name + " "+ data[i].Price + " "+ data[i].Quantity +  "<br>");   //burada da ekrana şartı asağlayan verileri listeliyoruz. Verileri yazdırırken, verilerimiz satır satır okunur ve bu satırdaki her biri bir değişkene atanmıştır.  değişkenleri görmek için json dosyasını açıp bakabilirsiniz.
+              
+            }
+        });
+
+    });
+
+    </script>
+
+
+
+</body>
+</html>
+
+
+<!--JSON DATAMIZ
+[{"Id":1,"Name":"Nokia1","Price":100.0000,"Quantity":2},{"Id":2,"Name":"Nokia2","Price":200.0000,"Quantity":3},{"Id":3,"Name":"Samsung1","Price":300.0000,"Quantity":4},{"Id":4,"Name":"Samsung2","Price":400.0000,"Quantity":5},{"Id":5,"Name":"Apple1","Price":500.0000,"Quantity":6},{"Id":6,"Name":"Apple2","Price":500.0000,"Quantity":6},{"Id":7,"Name":"Apple3","Price":500.0000,"Quantity":6},{"Id":8,"Name":"Apple4","Price":500.0000,"Quantity":667}] 
+    
+    
+    
+    
+    
+     -->

@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\bin\Debug\MathHost.exe.config
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\bin\Debug\MathHost.exe
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\bin\Debug\MathHost.pdb
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\bin\Debug\MathLib.dll
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\bin\Debug\MathLib.pdb
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\obj\Debug\MathHost.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\obj\Debug\MathHost.exe
+C:\Users\RAMAZAN\Desktop\MathLib\MathHost\obj\Debug\MathHost.pdb

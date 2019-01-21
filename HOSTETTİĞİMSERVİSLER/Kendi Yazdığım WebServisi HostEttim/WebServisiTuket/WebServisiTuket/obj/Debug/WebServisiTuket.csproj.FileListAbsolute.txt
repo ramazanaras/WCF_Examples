@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\bin\Debug\WebServisiTuket.exe.config
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\bin\Debug\WebServisiTuket.exe
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\bin\Debug\WebServisiTuket.pdb
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\obj\Debug\WebServisiTuket.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\obj\Debug\WebServisiTuket.Form1.resources
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\obj\Debug\WebServisiTuket.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\obj\Debug\WebServisiTuket.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\obj\Debug\WebServisiTuket.exe
+C:\Users\RAMAZAN\Desktop\WebServisiTuket\WebServisiTuket\obj\Debug\WebServisiTuket.pdb

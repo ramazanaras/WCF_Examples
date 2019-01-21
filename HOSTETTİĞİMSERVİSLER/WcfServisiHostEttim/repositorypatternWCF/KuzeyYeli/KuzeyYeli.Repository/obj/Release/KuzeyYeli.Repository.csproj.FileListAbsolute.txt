@@ -1,0 +1,12 @@
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\KuzeyYeli.Repository.dll.config
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\KuzeyYeli.Repository.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\KuzeyYeli.Repository.pdb
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\KuzeyYeli.ORM.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\KuzeyYeli.ORM.pdb
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\obj\Release\KuzeyYeli.Repository.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\obj\Release\KuzeyYeli.Repository.dll
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.Repository\obj\Release\KuzeyYeli.Repository.pdb

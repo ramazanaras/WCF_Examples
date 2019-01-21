@@ -1,0 +1,14 @@
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\bin\Debug\KuzeyYeli.UI.exe.config
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\bin\Debug\KuzeyYeli.UI.exe
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\bin\Debug\KuzeyYeli.UI.pdb
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.Form1.resources
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.exe
+C:\Users\RAMAZAN\Desktop\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.pdb
+C:\wdosya\C# TÜM NOTLAR\ahmet Yasin AK WCF notlar\repositorypatternWCF\KuzeyYeli\KuzeyYeli.UI\bin\Debug\KuzeyYeli.UI.exe.config
+C:\wdosya\C# TÜM NOTLAR\ahmet Yasin AK WCF notlar\repositorypatternWCF\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.exe
+C:\wdosya\C# TÜM NOTLAR\ahmet Yasin AK WCF notlar\repositorypatternWCF\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.pdb
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.UI\bin\Debug\KuzeyYeli.UI.exe.config
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.exe
+C:\Users\RAMAZAN\Desktop\repositorypatternWCF\KuzeyYeli\KuzeyYeli.UI\obj\Debug\KuzeyYeli.UI.pdb

@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\RealEF\IstConsumer\bin\Debug\IstConsumer.exe.config
+C:\Users\RAMAZAN\Desktop\RealEF\IstConsumer\bin\Debug\IstConsumer.exe
+C:\Users\RAMAZAN\Desktop\RealEF\IstConsumer\bin\Debug\IstConsumer.pdb
+C:\Users\RAMAZAN\Desktop\RealEF\IstConsumer\obj\Debug\IstConsumer.exe
+C:\Users\RAMAZAN\Desktop\RealEF\IstConsumer\obj\Debug\IstConsumer.pdb

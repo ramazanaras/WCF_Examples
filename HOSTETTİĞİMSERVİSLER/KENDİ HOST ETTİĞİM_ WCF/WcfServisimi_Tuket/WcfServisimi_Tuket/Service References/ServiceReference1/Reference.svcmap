@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c1554c28-779e-480d-9af4-dca929a4e1b1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://benimservisim.somee.com/Products.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Products.xsd" MetadataType="Schema" ID="0bda36e7-42b0-450e-9af3-4216e4f8ffd1" SourceId="1" SourceUrl="http://benimservisim.somee.com/Products.svc?xsd=xsd0" />
+    <MetadataFile FileName="Products1.xsd" MetadataType="Schema" ID="63f8bbbc-7107-4748-be63-49aeaa6dea5b" SourceId="1" SourceUrl="http://benimservisim.somee.com/Products.svc?xsd=xsd2" />
+    <MetadataFile FileName="ProductService.wsdl" MetadataType="Wsdl" ID="b5de2dfe-57a0-48d6-bbef-34bd6e73d15c" SourceId="1" SourceUrl="http://benimservisim.somee.com/Products.svc?wsdl" />
+    <MetadataFile FileName="Products.disco" MetadataType="Disco" ID="45930789-6ab9-4afa-a23e-63b179e142dd" SourceId="1" SourceUrl="http://benimservisim.somee.com/Products.svc?disco" />
+    <MetadataFile FileName="Products2.xsd" MetadataType="Schema" ID="c44da81a-b709-4586-a592-130471a34686" SourceId="1" SourceUrl="http://benimservisim.somee.com/Products.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\RAMAZAN\Desktop\service_publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/27/2018 20:06:36</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>01/27/2018 20:06:36</publishTime>
+    </File>
+    <File Include="bin/NorthWindLibrary.dll">
+      <publishTime>01/27/2018 23:10:24</publishTime>
+    </File>
+    <File Include="bin/NorthwindServiceApp.dll">
+      <publishTime>01/27/2018 23:10:25</publishTime>
+    </File>
+    <File Include="bin/NorthwindServiceLibrary.dll">
+      <publishTime>01/27/2018 23:10:24</publishTime>
+    </File>
+    <File Include="bin/SurrogateLibrary.dll">
+      <publishTime>01/27/2018 22:59:30</publishTime>
+    </File>
+    <File Include="Products.svc">
+      <publishTime>01/27/2018 20:24:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/27/2018 22:59:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

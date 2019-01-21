@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6d08472f-db67-4cc7-ba21-7e6663a94e3c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://wcfservicekatmanli.somee.com/UrunService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UrunService.xsd" MetadataType="Schema" ID="ed59d257-41ad-44f6-9adf-0bff60e5d3fd" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UrunService.disco" MetadataType="Disco" ID="ec2a667d-f5eb-43c2-a4e0-f528e2738e1f" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunService.svc?disco" />
+    <MetadataFile FileName="UrunService1.xsd" MetadataType="Schema" ID="515611f4-b761-4a36-b4f4-bc7d4b34bc2c" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunService.svc?xsd=xsd2" />
+    <MetadataFile FileName="UrunService2.xsd" MetadataType="Schema" ID="7d255c97-16a6-4fb9-ba94-d66f93cbecf9" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunService.svc?xsd=xsd1" />
+    <MetadataFile FileName="UrunService.wsdl" MetadataType="Wsdl" ID="514f5927-bbdc-453e-82d8-f8c60e7f3156" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\YorumServisUygulamasi\YorumServisUygulamasi\bin\Debug\YorumServisUygulamasi.dll.config
+C:\Users\RAMAZAN\Desktop\YorumServisUygulamasi\YorumServisUygulamasi\bin\Debug\YorumServisUygulamasi.dll
+C:\Users\RAMAZAN\Desktop\YorumServisUygulamasi\YorumServisUygulamasi\bin\Debug\YorumServisUygulamasi.pdb
+C:\Users\RAMAZAN\Desktop\YorumServisUygulamasi\YorumServisUygulamasi\obj\Debug\YorumServisUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\YorumServisUygulamasi\YorumServisUygulamasi\obj\Debug\YorumServisUygulamasi.dll
+C:\Users\RAMAZAN\Desktop\YorumServisUygulamasi\YorumServisUygulamasi\obj\Debug\YorumServisUygulamasi.pdb

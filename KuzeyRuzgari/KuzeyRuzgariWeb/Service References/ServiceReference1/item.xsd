@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/KuzeyRuzgari/ProductService/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/KuzeyRuzgari.Model.DTO" />
+  <xs:element name="GetAllProduct">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllProductResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/KuzeyRuzgari.Model.DTO" minOccurs="0" name="GetAllProductResult" nillable="true" type="q1:ArrayOfUrun" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllCategories">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllCategoriesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/KuzeyRuzgari.Model.DTO" minOccurs="0" name="GetAllCategoriesResult" nillable="true" type="q2:ArrayOfKategori" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

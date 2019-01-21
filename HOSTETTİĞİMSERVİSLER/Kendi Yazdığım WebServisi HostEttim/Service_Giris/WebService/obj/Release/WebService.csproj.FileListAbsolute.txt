@@ -1,0 +1,10 @@
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\bin\WebService.dll.config
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\bin\WebService.dll
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\bin\WebService.pdb
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\bin\EntityFramework.dll
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\bin\EntityFramework.SqlServer.dll
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\bin\EntityFramework.xml
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\bin\EntityFramework.SqlServer.xml
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\obj\Release\WebService.csprojResolveAssemblyReference.cache
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\obj\Release\WebService.dll
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\WebService\obj\Release\WebService.pdb

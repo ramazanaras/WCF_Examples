@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5a8ca875-35f5-45e6-a3b0-34bf087b1290" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:46930/ProductionService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ProductionService.wsdl" MetadataType="Wsdl" ID="3bc9bed4-7930-44cd-a59f-3716a7f1eaad" SourceId="1" SourceUrl="http://localhost:46930/ProductionService.svc?wsdl" />
+    <MetadataFile FileName="ProductionService.xsd" MetadataType="Schema" ID="7b71b6c5-be48-454b-8198-5050d126078e" SourceId="1" SourceUrl="http://localhost:46930/ProductionService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ProductionService1.xsd" MetadataType="Schema" ID="b58cce87-8a77-46eb-b6c8-32534cb38461" SourceId="1" SourceUrl="http://localhost:46930/ProductionService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ProductionService.disco" MetadataType="Disco" ID="ff36217f-e068-427e-8dc4-08eda3fc76f7" SourceId="1" SourceUrl="http://localhost:46930/ProductionService.svc?disco" />
+    <MetadataFile FileName="ProductionService2.xsd" MetadataType="Schema" ID="308a81c0-e481-4891-9808-28fba81ef57a" SourceId="1" SourceUrl="http://localhost:46930/ProductionService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

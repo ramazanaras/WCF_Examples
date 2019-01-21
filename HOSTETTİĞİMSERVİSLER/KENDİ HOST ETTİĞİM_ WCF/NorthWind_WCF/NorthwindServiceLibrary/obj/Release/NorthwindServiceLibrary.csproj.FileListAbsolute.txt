@@ -1,0 +1,28 @@
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthwindServiceLibrary.dll.config
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthwindServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthwindServiceLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthWindLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\obj\Release\NorthwindServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\obj\Release\NorthwindServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\NorthWind_WCF\NorthwindServiceLibrary\obj\Release\NorthwindServiceLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthwindServiceLibrary.dll.config
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthwindServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthwindServiceLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthWindLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\SurrogateLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\NorthWindLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\SurrogateLibrary.pdb
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.xml
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\obj\Release\NorthwindServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\obj\Release\NorthwindServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\KENDİ HOST ETTİĞİM_ WCF\NorthWind_WCF\NorthwindServiceLibrary\obj\Release\NorthwindServiceLibrary.pdb

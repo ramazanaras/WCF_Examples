@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7e9ddd27-55fc-4e69-a21e-a2353b102182" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://wcfservicekatmanli.somee.com/UrunlerService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UrunlerService.xsd" MetadataType="Schema" ID="8cfaad3a-49ca-4ff6-b306-a8a560280de7" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunlerService.svc?xsd=xsd2" />
+    <MetadataFile FileName="UrunlerService.wsdl" MetadataType="Wsdl" ID="dc2e9aaa-40d9-49ca-ace7-e481765bc685" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunlerService.svc?wsdl" />
+    <MetadataFile FileName="UrunlerService.disco" MetadataType="Disco" ID="fbcb7f53-b0c8-40be-b103-f8012431b63e" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunlerService.svc?disco" />
+    <MetadataFile FileName="UrunlerService1.xsd" MetadataType="Schema" ID="7fad85f3-76d9-4e2b-8113-93ebeb1166f9" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunlerService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UrunlerService2.xsd" MetadataType="Schema" ID="5cbcc6fa-cea2-4ece-ab56-c8fc4949205c" SourceId="1" SourceUrl="http://wcfservicekatmanli.somee.com/UrunlerService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

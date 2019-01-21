@@ -1,0 +1,20 @@
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\bin\Debug\Service_Giris.exe.config
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\bin\Debug\Service_Giris.exe
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\bin\Debug\Service_Giris.pdb
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\obj\Debug\Service_Giris.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\obj\Debug\Service_Giris.Form1.resources
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\obj\Debug\Service_Giris.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\obj\Debug\Service_Giris.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\obj\Debug\Service_Giris.exe
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\obj\Debug\Service_Giris.pdb
+C:\Users\RAMAZAN\Desktop\Service_Giris\Service_Giris\obj\Debug\Service_Giris.TcknDogrulaForm.resources
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\bin\Debug\Service_Giris.exe.config
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\bin\Debug\Service_Giris.exe
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\bin\Debug\Service_Giris.pdb
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\obj\Debug\Service_Giris.csprojResolveAssemblyReference.cache
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\obj\Debug\Service_Giris.Form1.resources
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\obj\Debug\Service_Giris.Properties.Resources.resources
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\obj\Debug\Service_Giris.TcknDogrulaForm.resources
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\obj\Debug\Service_Giris.csproj.GenerateResource.Cache
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\obj\Debug\Service_Giris.exe
+C:\wdosya\C# TÜM NOTLAR\ibrahim öz MVC\Service_Giris\Service_Giris\obj\Debug\Service_Giris.pdb

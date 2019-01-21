@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\KurlarServis\KurlarServis\obj\Debug\KurlarServis.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\KurlarServis\KurlarServis\bin\KurlarServis.dll.config
+C:\Users\RAMAZAN\Desktop\KurlarServis\KurlarServis\bin\KurlarServis.dll
+C:\Users\RAMAZAN\Desktop\KurlarServis\KurlarServis\bin\KurlarServis.pdb
+C:\Users\RAMAZAN\Desktop\KurlarServis\KurlarServis\obj\Debug\KurlarServis.dll
+C:\Users\RAMAZAN\Desktop\KurlarServis\KurlarServis\obj\Debug\KurlarServis.pdb
