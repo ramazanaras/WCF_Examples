@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\EvalServiceLibrary\bin\Debug\EvalServiceLibrary.dll.config
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\EvalServiceLibrary\bin\Debug\EvalServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\EvalServiceLibrary\bin\Debug\EvalServiceLibrary.pdb
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\EvalServiceLibrary\obj\Debug\EvalServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\EvalServiceLibrary\obj\Debug\EvalServiceLibrary.dll
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\EvalServiceLibrary\obj\Debug\EvalServiceLibrary.pdb

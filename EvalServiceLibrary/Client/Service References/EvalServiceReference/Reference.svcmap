@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="79301645-843f-4154-825a-05527e954a7f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:7780/Eval.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Eval.xsd" MetadataType="Schema" ID="f05ed79e-64a5-473a-be22-7327c3d289be" SourceId="1" SourceUrl="http://localhost:7780/Eval.svc?xsd=xsd1" />
+    <MetadataFile FileName="EvalService.wsdl" MetadataType="Wsdl" ID="5da5b5c1-e435-4376-8e21-e4850cea1841" SourceId="1" SourceUrl="http://localhost:7780/Eval.svc?wsdl" />
+    <MetadataFile FileName="Eval.disco" MetadataType="Disco" ID="8c095e12-d8a6-48c1-a52c-f04330389666" SourceId="1" SourceUrl="http://localhost:7780/Eval.svc?disco" />
+    <MetadataFile FileName="Eval1.xsd" MetadataType="Schema" ID="221e22b9-f637-4f48-af1e-a97b3a197056" SourceId="1" SourceUrl="http://localhost:7780/Eval.svc?xsd=xsd0" />
+    <MetadataFile FileName="Eval2.xsd" MetadataType="Schema" ID="2826a470-c943-405a-b10f-cc0676b63f37" SourceId="1" SourceUrl="http://localhost:7780/Eval.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

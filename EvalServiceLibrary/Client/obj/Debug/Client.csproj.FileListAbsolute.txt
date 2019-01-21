@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\Client\bin\Debug\Client.exe.config
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\Client\bin\Debug\Client.exe
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\Client\bin\Debug\Client.pdb
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\Client\obj\Debug\Client.exe
+C:\Users\RAMAZAN\Desktop\EvalServiceLibrary\Client\obj\Debug\Client.pdb
